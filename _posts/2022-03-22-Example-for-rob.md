@@ -13,7 +13,6 @@ categories: golden
 2021 saw a virtual celebration due to the global pandemic. However, the Venice Carnival returns to its traditional festivity this year. Known for its vibrant and multifarious masks and costumes, the Venice Carnival is one of the oldest festivals worldwide. It is celebrated annually, beginning around two weeks before the Catholic season of Lent and ending on Shrove Tuesday or the day before Ash Wednesday.
 
  
-
 The word "carnival", is said to have originated from the Latin words caro or carn, which means meat, and levare, which means put away.
 
 Originally referred to the farewell banquet for meat, which was celebrated on the evening before Ash Wednesday. The origin of "carnival" can be linked to the Catholic's steadfast tradition of abstaining from meat during the Lenten season.
