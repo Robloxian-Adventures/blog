@@ -15,6 +15,12 @@ current: author
 
 <!-- Everything inside the #author tags pulls data from the author -->
 <!-- #author  -->
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    </head>
     <header class="main-header author-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
         <nav class="main-nav overlay clearfix">
             {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
@@ -32,7 +38,7 @@ current: author
                     <div class="img" style="background-image: url({{ site.baseurl }}{{ author[1].assets }})"><span class="hidden">{{ author[1].name }}'s Picture</span></div>
                 </figure>
                 {% endif %}
-                <h1 class="author-title">{{ author[1].name }}</h1>
+                <h1 class="author-title">{{ author[1].name }}<span class="badge bg-warning text-dark">Admin</span></h1>
                 {% if author[1].bio %}
                     <div style="display:inline; text-align: justify; text-justify: inter-word;">
                         <h2 class="author-bio">{{ author[1].bio }}</h2>
