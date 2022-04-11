@@ -41,7 +41,7 @@ current: author
                 {% if author[1].role == "admin" %}
                 <h1 class="author-title">{{ author[1].name }} <span class="badge rounded-pill bg-warning text-dark"></span></h1>
                 {% else %}
-                <h1 class="author-title">{{ author[1].name }} </h1>
+                <h1 class="author-title">{{ author[1].name }} {{ author[1].role }}</h1>
                 {% endif %}
                 {% if author[1].bio %}
                     <div style="display:inline; text-align: justify; text-justify: inter-word;">
