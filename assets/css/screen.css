@@ -1033,10 +1033,14 @@ body.page-template .post-title {
 
 .post-excerpt p {
     margin: 0;
-    font-size: 1.71em;
+    font-size: .91em;
     line-height: 1.7em;
 }
-
+.post-excerpt pp {
+   margin: 0;
+   font-size: 1.7em;
+   line-height: 1.7em;
+}
 .read-more {
     text-decoration: none;
 }
