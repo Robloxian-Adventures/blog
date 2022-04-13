@@ -7,3 +7,10 @@ golden:
   bio: Just another depressed 17 year old. Back end developer & CFO of Robloxian adventures.
   assets: assets/images/authors/golden.jpg
   role: Admin
+rob:
+  username: AristottleCreed
+  name: Rob
+  location: Unknown
+  bio: CEO of Robloxian Adventures
+  assets: assets/images/authors/rob.jpg
+  role: Owner
