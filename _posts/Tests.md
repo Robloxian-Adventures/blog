@@ -1,0 +1,13 @@
+---
+layout: post
+cover: 'assets/images/cover2.jpg'
+navigation: True
+title: New blog who dis?
+date: 04/12/2022
+tags: testing blog new 
+subclass: 'post tag-test tag-content'
+logo: 'assets/images/mountaineer.png'
+author: Rob
+categories: Rob
+---
+Testing the new blog, how do we like it? 
