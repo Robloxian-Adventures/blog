@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>goldendev.tech/blog</title>
+   
+   <link></link>
+   <description>The best place to stay up to date with Robloxian Adventures, Mountaneering and Roblox news!</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>New blog... Who dis?</title>
+	  <link>/blog//test</link>
+	  <author></author>
+	  <pubDate>2022-04-14T12:18:00-04:00</pubDate>
+	  <guid>/blog//test</guid>
+	  <description><![CDATA[
+	     <p>aaaa</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Example for rob!</title>
+	  <link>/blog//another-example</link>
+	  <author></author>
+	  <pubDate>2022-04-14T12:18:00-04:00</pubDate>
+	  <guid>/blog//another-example</guid>
+	  <description><![CDATA[
+	     <p>Make sure title has current date, then title and is a .md file.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Example: 2022-04-15-another-example.md
+</code></pre></div></div>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
