@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Mountaineer - Articles</title>
+    <description>The best place to stay up to date with Robloxian Adventures, Mountaneering and Roblox news!</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Example for rob!</title>
+        
+          <description>&lt;p&gt;Make sure title has current date, then title and is a .md file.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 14 Apr 2022 12:18:00 +0000</pubDate>
+        <link>
+        /another-example</link>
+        <guid isPermaLink="true">/another-example</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>New blog... Who dis?</title>
+        
+          <description>&lt;p&gt;aaaa&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 14 Apr 2022 12:18:00 +0000</pubDate>
+        <link>
+        /test</link>
+        <guid isPermaLink="true">/test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Basic Markdown</title>
+        
+          <description>&lt;p&gt;Welcome to the future of RA. Unlimited news, all in one place. Here I’ll be showing you guys some basic markdown, the best markdown software around.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 23 Mar 2022 10:19:00 +0000</pubDate>
+        <link>
+        /Basic-Markdown</link>
+        <guid isPermaLink="true">/Basic-Markdown</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
+
+<!-- sigh -->

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>goldendev.tech/blog</title>
+   
+   <link></link>
+   <description>The best place to stay up to date with Robloxian Adventures, Mountaneering and Roblox news!</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Basic Markdown</title>
+	  <link>/blog//Basic-Markdown</link>
+	  <author></author>
+	  <pubDate>2022-03-23T10:19:00+00:00</pubDate>
+	  <guid>/blog//Basic-Markdown</guid>
+	  <description><![CDATA[
+	     <p>Welcome to the future of RA. Unlimited news, all in one place. Here I’ll be showing you guys some basic markdown, the best markdown software around.</p>
+
+<h1 id="getting-started">Getting Started:</h1>
+
+<p>You can use markdown is many places, and it will always work the same, but today we’ll talk about the most common markdown tags you will be using when publishing to the blog!</p>
+
+<h2 id="headers">Headers:</h2>
+
+<p>The most basic element to any document are titles, headers and body content! In markdown, you can specify a couple header types. Title, Header 1, Header 2, all the way up to Header 5. You can use these in the following ways.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Title!
+## Headers look like this!
+### Header 2 looks like this!
+#### Header 3 
+##### Hopefully you get the point now...
+###### And the smallest, Header 5
+
+</code></pre></div></div>
+<p>Those headings come out to look like this!</p>
+<h1 id="title">Title!</h1>
+<h2 id="headers-look-like-this">Headers look like this!</h2>
+<h3 id="header-2-looks-like-this">Header 2 looks like this!</h3>
+<h4 id="header-3">Header 3</h4>
+<h5 id="hopefully-you-get-the-point-now">Hopefully you get the point now…</h5>
+<h6 id="and-the-smallest-header-5">And the smallest, Header 5</h6>
+
+<p><br /></p>
+
+<h2 id="bold-italics-underlines-and-strikethroughs">Bold, Italics, Underlines and Strikethroughs</h2>
+
+<p>Just like in discord markdown, bold, italics, underlines and strikethroughs use the symbols shown below.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**BOLD TEXT**
+*Italics**
+__Underlines__
+~Strikethrough~
+</code></pre></div></div>
+<p>And just like last time, here they are demonstrated!</p>
+
+<p><strong>BOLD TEXT</strong></p>
+
+<p><em>Italics</em></p>
+
+<p><strong>Underlines</strong></p>
+
+<p>~Strikethrough~</p>
+
+<h2 id="code-blocks-and-block-quotes">Code blocks and Block Quotes</h2>
+<p>once again, exactly like discord…</p>
+
+<p><br /></p>
+
+<h3 id="code-blocks">Code Blocks</h3>
+<p>(excluding the backslashes)</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/```JavaScript
+function hello() {
+  console.log("Hello, World!")
+}
+
+hello()
+/```
+</code></pre></div></div>
+<p>and in use:</p>
+<pre><code class="language-JavaScript">function hello() {
+  console.log("Hello, World!")
+}
+
+hello()
+</code></pre>
+
+<h3 id="block-quotes">Block Quotes</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; Block quote... Nice!
+&gt;
+&gt; Goes down here too!!
+</code></pre></div></div>
+<p>once again, in use:</p>
+<blockquote>
+  <p>Block quote… Nice!</p>
+
+  <p>Goes down here too!!</p>
+</blockquote>
+
+<p><br /></p>
+
+<h2 id="images-and-links">Images and Links</h2>
+<p>Both of these attributes are quite similar, so Ill cover them both under the same section.</p>
+
+<h3 id="links">Links</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[The Mountaneer](https://goldendev.tech/blog)
+https://goldendev.tech/blog
+</code></pre></div></div>
+<p>and in use:</p>
+
+<p><a href="https://goldendev.tech/blog">The Mountaneer</a></p>
+
+<p>https://goldendev.tech/blog</p>
+
+<h3 id="images">Images</h3>
+<p>Images can optionally be given a caption using the following method. For just the image, do not include <code class="language-plaintext highlighter-rouge">|:-----:|</code> and the text below it.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![alt text](https://media.discordapp.net/attachments/723662774751854702/953507732932165632/unknown.png)
+</code></pre></div></div>
+
+<p><img src="https://media.discordapp.net/attachments/723662774751854702/953507732932165632/unknown.png" alt="alt text" /></p>
+
+<p><br /></p>
+
+<h2 id="sub--superscript">Sub &amp; Superscript</h2>
+
+<p>For sub and superscript, we use the HTML tags for it.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;sub&gt;sub&lt;/sub&gt;scipt
+
+&lt;sup&gt;super&lt;/sup&gt;script
+</code></pre></div></div>
+<p>and in use:</p>
+
+<p><sub>sub</sub>script</p>
+
+<p><sup>super</sup>script</p>
+
+<p><br /></p>
+
+<h2 id="using-html">Using HTML:</h2>
+
+<p>You can pretty seamlessly integrate html code into your markdown files! To do so, literally just use the tags you want and put it where you want! Just make sure to preview the output before using it.</p>
+
+<p><br /></p>
+
+<h2 id="other">Other:</h2>
+<p>There are many more markdown uses, such as tables and charts but I wont cover them here. If you need more help, feel free to contact me (Golden!!#8008) on discord or look up your question for more info.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
